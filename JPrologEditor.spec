@@ -1,5 +1,5 @@
 Summary:	J Prolog Editor - an editor (written in Java) for SWI-Prolog
-Summary(pl):	J Prolog Editor - edytor (napisany w Javie) dla jêzyka SWI-Prolog
+Summary(pl.UTF-8):   J Prolog Editor - edytor (napisany w Javie) dla jÄ™zyka SWI-Prolog
 Name:		JPrologEditor
 Version:	1.1
 Release:	1
@@ -17,10 +17,10 @@ J Prolog Editor is an editor (written in Java) for SWI-Prolog
 (www.swi-prolog.org) providing syntax highlighting, an embedded Prolog
 interpreter and other features.
 
-%description -l pl
-J Prolog Editor to edytor (napisany w Javie) dla jêzyka SWI-Prolog.
-Obs³ugujê pod¶wietlanie sk³adni, posiada wbudowany interpreter Prologa
-oraz wiele innych mo¿liwo¶ci.
+%description -l pl.UTF-8
+J Prolog Editor to edytor (napisany w Javie) dla jÄ™zyka SWI-Prolog.
+ObsÅ‚ugujÄ™ podÅ›wietlanie skÅ‚adni, posiada wbudowany interpreter Prologa
+oraz wiele innych moÅ¼liwoÅ›ci.
 
 %prep
 %setup -q -c -T
