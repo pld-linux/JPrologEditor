@@ -8,6 +8,7 @@ Group:		Development/Tools
 Source0:	http://520094857424.bei.t-online.de/JPrologEditor/%{name}.jar
 # Source0-md5:	b69363f07ffc3ea6f2ad702a709dc6b8
 URL:		http://520094857424.bei.t-online.de/JPrologEditor
+Requires:	jpackage-utils
 Requires:	jre >= 1.3.1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
